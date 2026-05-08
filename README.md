@@ -13,7 +13,9 @@ I developed a Python-based automation engine using the **Boto3 SDK** to provisio
 * **Firewall:** Custom Security Group enforcing "Least Privilege" (Allowing only SSH and ICMP).
 
 ### **Network Topology Audit**
-*(DRAG AND DROP Image 8.png HERE)*
+<img width="836" height="351" alt="8" src="https://github.com/user-attachments/assets/910f0201-cc22-4bc1-865f-401bde8512ac" />
+
+
 
 ## 🛡️ Phase 2: The Audit (Security Validation)
 Building the wall is only half the job. To verify the security posture, I deployed a target instance and performed a reconnaissance scan from an external Kali Linux attack node.
@@ -22,8 +24,10 @@ Building the wall is only half the job. To verify the security posture, I deploy
 * **Port 80 (HTTP):** **FILTERED** (Verified: Unauthorized web traffic was successfully dropped by the firewall).
 
 ### **Nmap Validation Results**
-*(DRAG AND DROP Image 1.png HERE)*
+<img width="405" height="92" alt="1" src="https://github.com/user-attachments/assets/6f6253b4-cbb1-45b0-811c-eac49bc7eb38" />
+
 
 ## 💻 Operational Environment
 The lab was engineered and tested within a virtualized Kali Linux environment.
-*(DRAG AND DROP Image 9.jpg HERE)*
+<img width="1600" height="1200" alt="9" src="https://github.com/user-attachments/assets/7ed417c0-ea2c-4dc7-9c9d-1e7f21ebbbdc" />
+
