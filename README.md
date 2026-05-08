@@ -4,7 +4,7 @@ Automating enterprise cloud infrastructure with Python/Boto3 and performing defe
 # AWS Automated Security Perimeter & Audit 🛡️
 
 ## 🎯 Project Vision
-Transitioning from a career in Finance and Accounting, I apply a meticulous auditing mindset to Cloud Security. This project demonstrates my ability to use **Infrastructure as Code (IaC)** to automate a secure perimeter and perform a defensive audit to ensure compliance.
+Applying a meticulous auditing mindset to Cloud Security. This project demonstrates my ability to use **Infrastructure as Code (IaC)** to automate a secure perimeter and perform a defensive audit to ensure compliance.
 
 ## 🏗️ Phase 1: The Build (Automation)
 I developed a Python-based automation engine using the **Boto3 SDK** to provision a custom AWS network. This bypasses manual configuration errors and ensures a repeatable, hardened environment.
